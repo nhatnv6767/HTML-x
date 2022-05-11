@@ -15,10 +15,11 @@ body {
 /* ảnh nhưng lại dùng div, vì div có nhiều thuộc tính hơn để chỉnh sửa, ví dụ như background-image.... */
 .banner {
     /* border       : 1px solid red; */
-    height          : 500px;
-    /* width        : 100%; */
-    background      : url('./banner.jpg') center center no-repeat;
-    overflow        : hidden;
+    height             : 500px;
+    /* width           : 100%; */
+    background         : url('./banner.jpg') center center no-repeat;
+    /* overflow        : hidden; */
+    padding            : 20px;
 }
 
 .about-sign-in {
