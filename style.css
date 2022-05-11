@@ -4,6 +4,14 @@ body {
     padding: 0 !important;
 }
 
+.red {
+    border: 1px solid red;
+}
+
+.green {
+    border: 1px solid green;
+}
+
 /* ảnh nhưng lại dùng div, vì div có nhiều thuộc tính hơn để chỉnh sửa, ví dụ như background-image.... */
 .banner {
     /* border       : 1px solid red; */
@@ -11,4 +19,9 @@ body {
     /* width        : 100%; */
     background      : url('./banner.jpg') center center no-repeat;
     overflow        : hidden;
+}
+
+.about-sign-in {
+    height: 80px;
+    width : 100%;
 }
