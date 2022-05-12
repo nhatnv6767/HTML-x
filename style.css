@@ -23,14 +23,12 @@ body {
 }
 
 .about-sign-in {
-    height : 80px;
-    width  : 100%;
-    display: block;
-    float  : right;
+    height    : 80px;
+    width     : 100%;
+    text-align: right;
 }
 
 .about,
 .sign-in {
     text-decoration: none;
-    float          : right;
 }
