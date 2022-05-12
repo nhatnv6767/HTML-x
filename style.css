@@ -72,3 +72,10 @@ button {
     height: 50px;
     border: 1px solid red;
 }
+
+.left,
+.right,
+.center {
+    width  : 33%;
+    display: inline;
+}
