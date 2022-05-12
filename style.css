@@ -31,4 +31,13 @@ body {
 .about,
 .sign-in {
     text-decoration: none;
+    margin-top     : 20px;
+    padding        : 7px;
+    display        : inline-block;
+    text-transform : uppercase;
+}
+
+.sign-in {
+    margin-right: 60px;
+    marginleft  : 25px;
 }
