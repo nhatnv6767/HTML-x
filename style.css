@@ -32,12 +32,14 @@ body {
 .sign-in {
     text-decoration: none;
     margin-top     : 20px;
-    padding        : 7px;
+    padding        : 10px 15px;
     display        : inline-block;
     text-transform : uppercase;
 }
 
 .sign-in {
-    margin-right: 60px;
-    marginleft  : 25px;
+    margin-right : 60px;
+    margin-left  : 25px;
+    border       : 1px solid green;
+    border-radius: 20px;
 }
