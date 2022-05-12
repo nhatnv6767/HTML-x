@@ -43,3 +43,9 @@ body {
     border       : 1px solid green;
     border-radius: 20px;
 }
+
+.logo {
+    background: url('./hapoERP.png') center center no-repeat;
+    margin-top: 40px;
+    height    : 100px;
+}
