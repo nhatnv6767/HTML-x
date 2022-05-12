@@ -52,6 +52,7 @@ body {
 
 .text {
     text-align: center;
+    margin-top: 30px;
 }
 
 .btn-start-now {
@@ -64,4 +65,10 @@ button {
     border-radius : 20px;
     border        : 1px solid green;
     margin-top    : 25px;
+    cursor        : pointer;
+}
+
+.content-center {
+    height: 50px;
+    border: 1px solid red;
 }
