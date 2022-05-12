@@ -76,6 +76,13 @@ button {
 .left,
 .right,
 .center {
-    width  : 33%;
-    display: inline;
+    width     : 33%;
+    display   : inline-block;
+    text-align: center;
+}
+
+.left,
+.right,
+.center span {
+    display: block;
 }
