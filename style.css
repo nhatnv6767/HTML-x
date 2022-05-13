@@ -70,7 +70,6 @@ button {
 
 .content-center {
     height: 50px;
-    border: 1px solid red;
 }
 
 .left,
@@ -81,8 +80,12 @@ button {
     text-align: center;
 }
 
-.left,
-.right,
-.center span {
-    display: block;
+span {
+    display  : block;
+    font-size: 20px;
+}
+
+img {
+    width : 30px;
+    height: 30px;
 }
