@@ -59,7 +59,8 @@ body {
     text-align: center;
 }
 
-button {
+
+.banner .btn-start-now button {
     text-transform: uppercase;
     padding       : 10px 15px;
     border-radius : 20px;
@@ -83,6 +84,10 @@ button {
 span {
     display  : block;
     font-size: 20px;
+}
+
+.text span {
+    color: green;
 }
 
 img {
