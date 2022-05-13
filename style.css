@@ -68,16 +68,16 @@ button {
     cursor        : pointer;
 }
 
-.content-center {
-    height: 50px;
-}
+
 
 .left,
 .right,
 .center {
-    width     : 33%;
-    display   : inline-block;
-    text-align: center;
+    width        : 33%;
+    display      : inline-block;
+    text-align   : center;
+    margin-top   : 20px;
+    margin-bottom: 20px;
 }
 
 span {
